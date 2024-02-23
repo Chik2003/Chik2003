@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Chirayu Kansal</h1>
+<h3 align="center">A Fresher Software developer from India</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning Java Designing & development.<br>👯 I’m looking to collaborate on Projects on Java & Software Development Project. <br>💬 Ask me About Java along with Its' DSA and Front-End Web Dev Too.<br>⚡ Fun fact  I think i am a person that believe to learn and be updated. so that i always enrich my skills.
 
